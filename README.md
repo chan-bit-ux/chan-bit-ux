@@ -1,4 +1,4 @@
-<h1 align="left">Chan, Jomari</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
@@ -11,15 +11,19 @@
 
 ###
 
-<p align="left">I’m a BS Computer Science student from Cabuyao, Laguna, Philippines, passionate about software development, UI/UX design, game development, and multimedia. I enjoy creating practical, visually engaging projects and participating in competitions to sharpen my skills.</p>
+<p align="left">I'm Jomari Chan, a Computer Science student based in Cabuyao, Laguna, Philippines.</p>
+<p align="left">I build practical and visually engaging digital projects—whether it’s software, games, UI/UX designs, or multimedia.  
+If an idea pops into my head, chances are I’ll build it.  
+</p>
+
+###
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">🎨 Creator at heart, developer by discipline<br>I specialize in crafting digital experiences through UI/UX design, game development, and multimedia editing.<br><br>🏆 Achievements:<br>• Computer Science Quiz Bee Champion<br>• Vlogging Competition Champion (Video Editing & Production)</p>
+<p align="left">🎨 Creator at heart, developer by discipline<br>I specialize in crafting digital experiences through UI/UX design, game development, and multimedia editing.<br><br>🏆 Achievements: <br>
+Vlogging Competition Champion (Video Editing & Production)</p>
 
 ###
 
