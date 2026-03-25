@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋</h1>
+<h2 align="left">Hello! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h2>
 
 ###
 
@@ -13,30 +13,32 @@
 
 <p align="left">I'm Jomari Chan, a Computer Science student based in Cabuyao, Laguna, Philippines.</p>
 <p align="left">I build practical and visually engaging digital projects—whether it’s software, games, UI/UX designs, or multimedia.  
-If an idea pops into my head, chances are I’ll build it.  
+<p align="left">If an idea pops into my head, chances are I’ll build it.  
 </p>
 
 ###
 
-###
-
-<h2 align="left">About me</h2>
-
-<p align="left">🎨 Creator at heart, developer by discipline<br>I specialize in crafting digital experiences through UI/UX design, game development, and multimedia editing.<br><br>🏆 Achievements: <br>
-Vlogging Competition Champion (Video Editing & Production)</p>
+<h2 align="left">Tool & Tech</h2>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+- React, Java, Luau   
+- Unity, Roblox Studio for game 
+- Figma, Blender, 
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-</div>
+###
+
+<h2 align="left">A Bit About me</h2>
+
+- 🍵 Powered by coffee
+- 🏆 Vlogging Competition Champion
+- 🧱 I like building things that are simple, useful, and easy to understand
+
+###
+
+
+
+
+
