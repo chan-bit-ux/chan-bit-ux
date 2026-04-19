@@ -9,19 +9,19 @@
 
 ###
 
-<h2 align="left">Tool & Tech</h2>
+<h2 align="left">Stack</h2>
 
 ###
 
 - React, TypeScript, Luau   
-- Unity, Roblox Studio
+- Unity, Unreal Engine
 - Figma, Blender, Procreate
 
 ###
 
 ###
 
-<h2 align="left">A Bit About me</h2>
+<h2 align="left">About</h2>
 
 - 🍵 Powered by coffee
 - 🏆 Vlogging Competition Champion
